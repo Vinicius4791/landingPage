@@ -1,0 +1,37 @@
+#FAQ{
+    background-color: #2EC5CE;
+    padding: 100px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+#FAQ h1{
+    color: #141414;
+    margin-top: 0;
+    margin-left: 55px;
+    width: 200px;
+    font-size: 3rem;
+    text-align: left;
+    font-weight: 900;
+    margin-bottom: 60px;
+}
+
+#Columns div{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: #F6F6F6;
+    width: 1000px;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 9px #FBFBFB;
+}
+
+#Columns p{
+    margin-bottom: 15px;
+    color: #181818;
+    line-height: 25px;
+    width: 1000px;
+}

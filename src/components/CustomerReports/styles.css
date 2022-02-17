@@ -1,0 +1,66 @@
+#container{
+    background-color: #F5F5F5;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    padding: 60px;
+}
+
+#container h1{
+    text-align: left;
+    font-size: 2.7rem;
+    font-weight: 900;
+    width: 550px;
+    margin-top: 0;
+    margin-left: 35px;
+}
+
+#container #flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.InternDiv{
+    background-color: #DFEFFF;
+    border-radius: 60px;
+    padding: 35px;
+    margin: 40px;
+}
+
+#info{
+    display: flex;
+}
+
+.InternDiv .photo-person{
+    border-radius: 50%;
+    margin-left: 80px;
+    top: -70px;
+    position: relative;
+}
+
+.InternDiv #location-icon{
+    background-color: #DFEFFF;
+    float: left;
+    margin-right: 10px;
+}
+
+.InternDiv h3{
+    text-align: left;
+    margin-top: 0;
+    width: 245px;
+    margin-bottom: 10px;
+}
+
+.InternDiv p{
+    text-align: left;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.texto{
+    width: 400px;
+    text-align: left;
+    margin-left: 20px;
+    line-height: 25px;
+}
